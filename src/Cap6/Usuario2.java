@@ -31,6 +31,8 @@ public class Usuario2 {
         this.moderador = true;
     }
 
+    public void tornaUsuario(){this.moderador = false;}
+
     @Override
     public String toString() {
         return nome + " (" + pontos + " pontos) " + (isModerador() ? ". É moderador." : ". Não é moderador.");
