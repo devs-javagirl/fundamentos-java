@@ -5,10 +5,20 @@ public class Usuario2 {
     private int pontos;
     private boolean moderador;
 
+    public static boolean mod;
+
     public Usuario2(String nome, int pontos) {
         this.nome = nome;
         this.pontos = pontos;
         this.moderador = false;
+    }
+
+    public Usuario2() {
+
+    }
+
+    public Usuario2(String n) {
+        this.nome = n;
     }
 
     // getters e setters
@@ -31,10 +41,20 @@ public class Usuario2 {
         this.moderador = true;
     }
 
+    public static void tornaModerador2() {
+        mod = true;
+        System.out.println("Tornando moderador...");
+    }
+
     public void tornaUsuario(){this.moderador = false;}
+
 
     @Override
     public String toString() {
         return nome + " (" + pontos + " pontos) " + (isModerador() ? ". É moderador." : ". Não é moderador.");
+    }
+
+    public void setPontos(int i) {
+        this.pontos = i;
     }
 }
