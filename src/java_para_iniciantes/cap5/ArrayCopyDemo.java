@@ -1,4 +1,4 @@
-package cap5;
+package java_para_iniciantes.cap5;
 
 public class ArrayCopyDemo {
     public static void main(String[] args) {

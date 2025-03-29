@@ -1,4 +1,4 @@
-package cap11;
+package java_para_iniciantes.cap11;
 
 // Aguarda o término das threads com join()
 class MyThreadJoin implements Runnable {

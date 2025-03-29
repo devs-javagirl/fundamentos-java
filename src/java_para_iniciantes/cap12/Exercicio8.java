@@ -1,4 +1,4 @@
-package cap12;
+package java_para_iniciantes.cap12;
 
 import static java.lang.Integer.parseInt;
 

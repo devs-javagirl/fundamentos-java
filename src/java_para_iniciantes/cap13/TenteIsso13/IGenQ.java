@@ -1,4 +1,4 @@
-package cap13.TenteIsso13;
+package java_para_iniciantes.cap13.TenteIsso13;
 
 
 // Interface de fila genérica.

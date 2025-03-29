@@ -1,4 +1,4 @@
-package cap7;
+package java_para_iniciantes.cap7;
 
 class TwoDShape3 {
     private double width; // agora esses

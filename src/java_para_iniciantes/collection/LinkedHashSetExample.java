@@ -1,4 +1,4 @@
-package collection;
+package java_para_iniciantes.collection;
 
 import java.util.LinkedHashSet;
 import java.util.Set;

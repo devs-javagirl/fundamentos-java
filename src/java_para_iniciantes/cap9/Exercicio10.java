@@ -1,4 +1,4 @@
-package cap9;
+package java_para_iniciantes.cap9;
 
 class StackFullException extends Exception {
     int size;

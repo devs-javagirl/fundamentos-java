@@ -1,4 +1,4 @@
-package cap6;
+package java_para_iniciantes.cap6;
 
 // Uma classe de fila para caracteres.
 class Queue2 {

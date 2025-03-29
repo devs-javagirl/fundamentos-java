@@ -1,4 +1,4 @@
-package cap8.queue.qpack;
+package java_para_iniciantes.cap8.queue.qpack;
 
 //Fila circular.
 public class CircularQueue implements ICharQ {

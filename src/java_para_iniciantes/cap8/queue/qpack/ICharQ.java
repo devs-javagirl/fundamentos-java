@@ -1,4 +1,4 @@
-package cap8.queue.qpack;
+package java_para_iniciantes.cap8.queue.qpack;
 
 public interface ICharQ {
     // Insere um caractere na fila.

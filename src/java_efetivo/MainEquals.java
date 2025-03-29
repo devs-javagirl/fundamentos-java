@@ -1,4 +1,7 @@
-import Cap3.*;
+package java_efetivo;
+
+
+import java_efetivo.Cap3.*;
 
 public class MainEquals {
 

@@ -1,4 +1,4 @@
-package cap9;
+package java_para_iniciantes.cap9;
 
 class FixedQueue implements ICharQ {
     private char q[];

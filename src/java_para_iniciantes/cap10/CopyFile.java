@@ -1,4 +1,4 @@
-package cap10;
+package java_para_iniciantes.cap10;
 
  /* Copia um arquivo de texto.
    Para usar esse programa, especifique o nome do

@@ -1,4 +1,4 @@
-package cap5;
+package java_para_iniciantes.cap5;
 
 public class Exercicio3 {
     //3 Escreva um programa que use um array para encontrar a média de 10 valores double. Use os 10 valores que quiser.

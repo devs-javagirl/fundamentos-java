@@ -1,4 +1,4 @@
-package cap5;
+package java_para_iniciantes.cap5;
 
 /*
  Tente Isto 5-3

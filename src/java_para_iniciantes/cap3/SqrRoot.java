@@ -1,4 +1,4 @@
-package cap3;
+package java_para_iniciantes.cap3;
 
 // Exibe as raízes quadradas de 1 a 99 e o erro de arredondamento.
 class SqrRoot {

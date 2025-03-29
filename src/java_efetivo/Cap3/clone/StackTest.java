@@ -1,4 +1,4 @@
-package Cap3.clone;
+package java_efetivo.Cap3.clone;
 
 public class StackTest {
 

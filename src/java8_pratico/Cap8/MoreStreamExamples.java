@@ -35,6 +35,7 @@ public class MoreStreamExamples {
 
     public static void testStreamMethods(List<Usuario2> usuarios) {
         System.out.println("Métodos do Stream:");
+        System.out.println(usuarios.size());
         System.out.println("Total de usuários: " + usuarios.stream().count());
 
         System.out.println("Pulando os 2 primeiros:");
@@ -54,6 +55,7 @@ public class MoreStreamExamples {
         Usuario2 u3 = new Usuario2("Carol", false);
 
         Stream<Usuario2> stream = Stream.of(u1, u2, u3);
+
         System.out.println("Stream a partir de elementos:");
         stream.forEach(System.out::println);
     }
@@ -76,7 +78,7 @@ public class MoreStreamExamples {
 
     public static void testReadFile() {
         System.out.println("Lendo Arquivo com Stream:");
-        try (Stream<String> linhas = Files.lines(Paths.get("arquivo.txt"))) {
+        try (Stream<String> linhas = Files.lines(Paths.get("./arquivos/arquivo.txt"))) {
             linhas.forEach(System.out::println);
         } catch (IOException e) {
             System.out.println("Erro ao ler arquivo: " + e.getMessage());
@@ -98,16 +100,16 @@ public class MoreStreamExamples {
                 new Usuario2("Ana", false)
         );
 
-        testIterator(usuarios);
-        testForEachRemaining(usuarios);
-        testPredicates(usuarios);
-        testStreamMethods(usuarios);
-        testCreatingStreams();
-        testConcatStreams();
-        testPatternSplit();
-        testArrayStream();
+        //testIterator(usuarios);
+        //testForEachRemaining(usuarios);
+        //testPredicates(usuarios);
+        //testStreamMethods(usuarios);
+        //testCreatingStreams();
+        //testConcatStreams();
+        //testPatternSplit();
+        //testArrayStream();
 
         // Caso tenha um arquivo "arquivo.txt", descomente para testar:
-        // testReadFile();
+        testReadFile();
     }
 }

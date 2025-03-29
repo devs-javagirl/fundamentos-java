@@ -1,4 +1,4 @@
-package cap8;
+package java_para_iniciantes.cap8;
 
 // Interface que contém constantes
 interface IConst {

@@ -1,4 +1,5 @@
-package cap2;
+package java_para_iniciantes.cap2;
+
 
 // Demonstra sequências de escape em strings.
 class StrDemo {

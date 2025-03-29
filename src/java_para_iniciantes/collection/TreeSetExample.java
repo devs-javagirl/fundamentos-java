@@ -1,4 +1,4 @@
-package collection;
+package java_para_iniciantes.collection;
 
 import java.util.TreeSet;
 import java.util.Set;

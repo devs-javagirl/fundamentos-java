@@ -1,4 +1,4 @@
-package cap6;
+package java_para_iniciantes.cap6;
 
 class StaticMeth {
     static double val = 1024; // variável estática

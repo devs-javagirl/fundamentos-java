@@ -1,4 +1,4 @@
-package cap5;
+package java_para_iniciantes.cap5;
 
 public class Exercicio4 {
     //4 Altere a classificação da seção Tente isto 5-1 para que classifique um array de strings. Demonstre que funciona.

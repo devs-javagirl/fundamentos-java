@@ -1,4 +1,4 @@
-package cap2;
+package java_para_iniciantes.cap2;
 
 class UseCast {
     public static void main(String args[]) {

@@ -1,4 +1,4 @@
-package cap4;
+package java_para_iniciantes.cap4;
 
 class ParmConsDemo {
     public static void main(String args[]) {

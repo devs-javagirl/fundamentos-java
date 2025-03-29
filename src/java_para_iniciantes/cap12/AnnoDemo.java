@@ -1,4 +1,4 @@
-package cap12;
+package java_para_iniciantes.cap12;
 
 @Deprecated
 class MyClass1 {

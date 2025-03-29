@@ -1,4 +1,4 @@
-package AnonimousClass;
+package java_efetivo.AnonimousClass;
 
 /**
  * Trocar class por new

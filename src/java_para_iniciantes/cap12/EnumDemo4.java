@@ -1,4 +1,4 @@
-package cap12;
+package java_para_iniciantes.cap12;
 
 // Demonstra ordinal() e compareTo().
 // Enumeração de meios de transporte.

@@ -1,4 +1,4 @@
-package cap13;
+package java_para_iniciantes.cap13;
 
 interface IGenStack <T> {
     void push(T ch) throws StackFullException;

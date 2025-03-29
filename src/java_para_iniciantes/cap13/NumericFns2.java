@@ -1,4 +1,4 @@
-package cap13;
+package java_para_iniciantes.cap13;
 
 public class NumericFns2<T extends Number> {
     T num;

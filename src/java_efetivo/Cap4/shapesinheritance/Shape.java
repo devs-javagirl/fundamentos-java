@@ -1,4 +1,4 @@
-package Cap4.shapesinheritance;
+package java_efetivo.Cap4.shapesinheritance;
 
 // Classe abstrata para representar uma forma geométrica
 public abstract class Shape {

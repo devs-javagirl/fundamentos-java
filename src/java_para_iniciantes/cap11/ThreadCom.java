@@ -1,4 +1,4 @@
-package cap11;
+package java_para_iniciantes.cap11;
 
 // Usa wait() e notify() para similar um relógio funcionando.
 class TickTock {

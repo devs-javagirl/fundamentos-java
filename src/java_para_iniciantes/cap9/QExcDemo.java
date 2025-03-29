@@ -1,4 +1,4 @@
-package cap9;
+package java_para_iniciantes.cap9;
 
 class QExcDemo {
     public static void main(String args[]) {

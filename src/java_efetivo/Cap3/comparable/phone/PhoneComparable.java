@@ -1,4 +1,4 @@
-package Cap3.comparable.phone;
+package java_efetivo.Cap3.comparable.phone;
 
 public class PhoneComparable implements Comparable<PhoneComparable>{
   private final Short areaCode;

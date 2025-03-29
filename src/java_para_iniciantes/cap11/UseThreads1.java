@@ -1,4 +1,4 @@
-package cap11;
+package java_para_iniciantes.cap11;
 
 class MyThread3 extends Thread {
     MyThread3(String name) {

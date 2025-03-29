@@ -1,4 +1,4 @@
-package Cap7;
+package java_efetivo.Cap7;
 
 import org.jetbrains.annotations.NotNull;
 

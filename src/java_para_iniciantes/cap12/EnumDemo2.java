@@ -1,4 +1,4 @@
-package cap12;
+package java_para_iniciantes.cap12;
 
 // Usa os métodos de enumeração internos.
 // Enumeração de meios de transporte.

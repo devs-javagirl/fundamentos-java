@@ -1,4 +1,4 @@
-package collection;
+package java_para_iniciantes.collection;
 
 import java.util.PriorityQueue;
 import java.util.Comparator;

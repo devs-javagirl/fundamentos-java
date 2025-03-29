@@ -1,4 +1,4 @@
-package cap9;
+package java_para_iniciantes.cap9;
 
 public class DivisionExample1 {
     // Método que realiza a divisão, mas não trata a exceção

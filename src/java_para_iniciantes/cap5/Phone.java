@@ -1,4 +1,4 @@
-package cap5;
+package java_para_iniciantes.cap5;
 
 //javac Phone.java -> cria o Phone.class
 //java Phone Tom

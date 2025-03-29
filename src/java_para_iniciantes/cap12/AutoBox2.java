@@ -1,4 +1,4 @@
-package cap12;
+package java_para_iniciantes.cap12;
 
 class AutoBox2 {
     static void m(Integer v) {

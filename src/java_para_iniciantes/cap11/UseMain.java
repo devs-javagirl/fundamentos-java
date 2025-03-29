@@ -1,4 +1,4 @@
-package cap11;
+package java_para_iniciantes.cap11;
 
 public class UseMain {
     public static void main(String args[]) {

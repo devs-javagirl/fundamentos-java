@@ -1,4 +1,4 @@
-package cap5;
+package java_para_iniciantes.cap5;
 
 public class Exercicio13 {
     //3. Reescreva a classe MinMax mostrada anteriormente neste capítulo para que

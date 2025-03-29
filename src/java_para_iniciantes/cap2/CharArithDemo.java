@@ -1,4 +1,4 @@
-package cap2;
+package java_para_iniciantes.cap2;
 
 // Variáveis de caracteres podem ser tratadas como inteiros.
 class CharArithDemo {

@@ -1,4 +1,4 @@
-package Cap6;
+package java_efetivo.Cap6;
 
 import java.util.EnumMap;
 import java.util.Map;

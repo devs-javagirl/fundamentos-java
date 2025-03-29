@@ -1,4 +1,4 @@
-package cap11;
+package java_para_iniciantes.cap11;
 
 // Demonstra as prioridades das threads.
 class PriorityThread implements Runnable {

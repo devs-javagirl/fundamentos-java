@@ -1,4 +1,4 @@
-package Cap3;
+package java_efetivo.Cap3;
 
 import java.util.Objects;
 

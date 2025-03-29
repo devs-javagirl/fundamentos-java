@@ -1,4 +1,4 @@
-package cap5;
+package java_para_iniciantes.cap5;
 
 class Queue {
     char q[]; // esse array contém a fila

@@ -1,4 +1,4 @@
-package cap6;
+package java_para_iniciantes.cap6;
 
 // Exibe um string de trás para frente usando a recursão.
 class Backwards {

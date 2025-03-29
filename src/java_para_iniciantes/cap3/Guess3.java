@@ -1,4 +1,4 @@
-package cap3;
+package java_para_iniciantes.cap3;
 
 // Adivinhe a letra do jogo, 3a versão.
 class Guess3 {

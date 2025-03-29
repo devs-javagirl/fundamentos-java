@@ -1,4 +1,4 @@
-package Cap4.shapesinheritance;
+package java_efetivo.Cap4.shapesinheritance;
 
 // Classe concreta para representar um círculo
 public class Circle extends Shape {

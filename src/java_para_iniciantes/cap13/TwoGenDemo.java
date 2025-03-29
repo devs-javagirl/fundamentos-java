@@ -1,4 +1,4 @@
-package cap13;
+package java_para_iniciantes.cap13;
 
 public class TwoGenDemo {
     public static void main(String[] args) {

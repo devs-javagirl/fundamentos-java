@@ -1,4 +1,4 @@
-package Cap4.inheritance;
+package java_efetivo.Cap4.inheritance;
 
 public class Super {
 

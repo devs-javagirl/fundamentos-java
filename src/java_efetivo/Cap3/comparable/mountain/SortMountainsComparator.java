@@ -1,4 +1,4 @@
-package Cap3.comparable.mountain;
+package java_efetivo.Cap3.comparable.mountain;
 
 import java.util.Collections;
 import java.util.Comparator;

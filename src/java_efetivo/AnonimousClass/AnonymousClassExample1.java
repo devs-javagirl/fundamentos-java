@@ -1,4 +1,4 @@
-package AnonimousClass;
+package java_efetivo.AnonimousClass;
 
 
 // Uso da classe anônima para implementar a interface

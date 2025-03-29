@@ -1,4 +1,7 @@
-import Cap3.Cliente;
+package java_efetivo;
+
+
+import java_efetivo.Cap3.Cliente;
 
 public class MainToString {
 

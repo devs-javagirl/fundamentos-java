@@ -1,4 +1,4 @@
-package cap3;
+package java_para_iniciantes.cap3;
 
 // Demonstra o laço while.
 class WhileDemo {

@@ -1,4 +1,4 @@
-package cap8.Series1;
+package java_para_iniciantes.cap8.Series1;
 
 public interface Series {
     int getNext(); // Retorna o próximo número da série.

@@ -1,4 +1,4 @@
-package cap5;
+package java_para_iniciantes.cap5;
 
 public class Exercicio10a12 {
     //10. No fragmento a seguir, & é um operador bitwise ou lógico? Por que?

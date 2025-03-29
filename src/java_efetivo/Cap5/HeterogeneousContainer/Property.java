@@ -1,4 +1,4 @@
-package Cap5.HeterogeneousContainer;
+package java_efetivo.Cap5.HeterogeneousContainer;
 
 public class Property<T>{
   private final String name;

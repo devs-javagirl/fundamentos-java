@@ -1,4 +1,4 @@
-package cap5;
+package java_para_iniciantes.cap5;
 
 public class Exercicio9 {
     //Mostre como a sequência a seguir pode ser reescrita com o uso do operador ?.

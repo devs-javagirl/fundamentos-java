@@ -1,4 +1,4 @@
-package cap6;
+package java_para_iniciantes.cap6;
 
 // Classe Block que armazena as dimensões de um bloco tridimensional
 class Block {

@@ -1,4 +1,4 @@
-package cap3;
+package java_para_iniciantes.cap3;
 
 // Usando break com laços aninhados.
 class Break3 {

@@ -1,4 +1,4 @@
-package cap7;
+package java_para_iniciantes.cap7;
 
 public class Exercicio3a12 {
     /*

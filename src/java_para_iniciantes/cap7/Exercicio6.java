@@ -1,4 +1,4 @@
-package cap7;
+package java_para_iniciantes.cap7;
 
 class VeiculoEx6 {
     public void acelerar() {

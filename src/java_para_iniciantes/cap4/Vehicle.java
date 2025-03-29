@@ -1,6 +1,6 @@
-package cap4;
+package java_para_iniciantes.cap4;
 
-import cap8.IVehicle;
+import java_para_iniciantes.cap8.IVehicle;
 
 public class Vehicle implements IVehicle {
     int passengers; // número de passageiros

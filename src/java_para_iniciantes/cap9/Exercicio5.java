@@ -1,4 +1,4 @@
-package cap9;
+package java_para_iniciantes.cap9;
 
 class BankException extends Exception {
     public BankException(String message) {

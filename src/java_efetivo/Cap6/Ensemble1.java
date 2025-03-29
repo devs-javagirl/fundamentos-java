@@ -1,4 +1,4 @@
-package Cap6;
+package java_efetivo.Cap6;
 
 public enum Ensemble1 {
     SOLO, DUET, TRIO, QUARTET, QUINTET, SEXTET, SEPTET, OCTET, NONET, DECTET;

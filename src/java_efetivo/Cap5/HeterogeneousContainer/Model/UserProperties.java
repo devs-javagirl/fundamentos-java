@@ -1,6 +1,6 @@
-package Cap5.HeterogeneousContainer.Model;
+package java_efetivo.Cap5.HeterogeneousContainer.Model;
 
-import Cap5.HeterogeneousContainer.Property;
+import java_efetivo.Cap5.HeterogeneousContainer.Property;
 import java.time.LocalDate;
 
 public class UserProperties {

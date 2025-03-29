@@ -1,4 +1,4 @@
-package cap7;
+package java_para_iniciantes.cap7;
 
 // Uma referencia de superclasse pode referenciar um objeto da subclasse.
 class X1 {

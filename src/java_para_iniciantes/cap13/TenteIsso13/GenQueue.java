@@ -1,4 +1,4 @@
-package cap13.TenteIsso13;
+package java_para_iniciantes.cap13.TenteIsso13;
 
 // Classe genérica de uma fila de tamanho fixo.
 class GenQueue<T> implements IGenQ<T> {

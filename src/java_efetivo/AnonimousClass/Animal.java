@@ -1,4 +1,4 @@
-package AnonimousClass;
+package java_efetivo.AnonimousClass;
 
 // Definição da classe
 public class Animal {

@@ -1,4 +1,4 @@
-package cap11;
+package java_para_iniciantes.cap11;
 
 /* Tente Isto 11-1 */
 class MyThread2 extends Thread {

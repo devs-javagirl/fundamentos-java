@@ -1,4 +1,4 @@
-package Cap4.interfacees;
+package java_efetivo.Cap4.interfacees;
 
 public class SingerImplTest {
 

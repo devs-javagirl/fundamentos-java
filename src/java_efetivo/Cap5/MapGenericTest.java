@@ -1,11 +1,11 @@
-package Cap5;
+package java_efetivo.Cap5;
 
 import java.util.Map;
-import org.junit.jupiter.api.Test;
+//import org.junit.jupiter.api.Test;
 
 public class MapGenericTest {
 
-  @Test
+  //@Test
   void testMapGeneric(){
     Map<String, String> map1 = Map.of("key3", "value3", "key2", "value2");
     Map<String, String> map2 = Map.of("key50", "value50", "key20", "value20");

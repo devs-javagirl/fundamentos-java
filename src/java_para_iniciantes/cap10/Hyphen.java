@@ -1,4 +1,4 @@
-package cap10;
+package java_para_iniciantes.cap10;
 
 /* Copia um arquivo de texto, substituindo espaços por hífens.
    Esta versão utiliza fluxos de bytes.

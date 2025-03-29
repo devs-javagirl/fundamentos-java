@@ -1,4 +1,4 @@
-package cap5;
+package java_para_iniciantes.cap5;
 
 public class Exercicio6 {
     //Já que todos os strings são objetos de tipo String,

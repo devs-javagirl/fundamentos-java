@@ -1,4 +1,4 @@
-package cap12;
+package java_para_iniciantes.cap12;
 
 // Usa um construtor, uma variável de instância e um método com a enumeração.
 enum Transport3 {

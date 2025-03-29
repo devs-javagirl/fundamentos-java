@@ -1,6 +1,6 @@
-package Cap6;
+package java_efetivo.Cap6;
 
-import org.junit.jupiter.api.Test;
+//import org.junit.jupiter.api.Test;
 
 import java.lang.reflect.InvocationTargetException;
 import java.lang.reflect.Method;
@@ -24,7 +24,7 @@ public class AnnotationTest {
         Object object = testClass.getDeclaredConstructor().newInstance();
 
         for (Method m: testClass.getDeclaredMethods()) {
-            if (m.isAnnotationPresent(Test.class)) {
+            if (m.isAnnotationPresent(Cap6.annotations.Test.class)) {
                 tests++;
                 try {
                     m.invoke(object);

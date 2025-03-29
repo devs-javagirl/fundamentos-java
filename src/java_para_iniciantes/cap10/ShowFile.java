@@ -1,4 +1,4 @@
-package cap10;
+package java_para_iniciantes.cap10;
 
 /* Exibe um arquivo de texto.
    Para usar este programa, especifique

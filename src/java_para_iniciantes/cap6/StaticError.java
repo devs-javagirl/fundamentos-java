@@ -1,4 +1,4 @@
-package cap6;
+package java_para_iniciantes.cap6;
 
 class StaticError {
     static int denom = 3; // retirar static torna variável de instância comum

@@ -1,4 +1,4 @@
-package cap3;
+package java_para_iniciantes.cap3;
 
 public class Exercicio5For {
     public static void main(String[] args) {

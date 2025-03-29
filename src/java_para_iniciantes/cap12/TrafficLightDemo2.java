@@ -1,4 +1,4 @@
-package cap12;
+package java_para_iniciantes.cap12;
 
 // Versão melhorada da simulação de semáforo
 // que armazena o retardo do sinal em TrafficLightColor1.

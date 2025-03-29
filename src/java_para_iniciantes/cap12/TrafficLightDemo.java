@@ -1,4 +1,4 @@
-package cap12;
+package java_para_iniciantes.cap12;
 
 // Tente Isto 12-1
 // Uma simulação de um semáforo que usa uma enumeração

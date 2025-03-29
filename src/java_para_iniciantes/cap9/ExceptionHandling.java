@@ -1,4 +1,4 @@
-package cap9;
+package java_para_iniciantes.cap9;
 
 // Java program to demonstrate working of chained exceptions
 public class ExceptionHandling

@@ -1,4 +1,4 @@
-package collection.Streams;
+package java_para_iniciantes.collection.Streams;
 
 /*Somar Números Pares de uma Lista
 Dada uma lista de números inteiros, some apenas os números pares.

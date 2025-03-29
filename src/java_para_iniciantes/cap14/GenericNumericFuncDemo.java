@@ -1,4 +1,4 @@
-package cap14;
+package java_para_iniciantes.cap14;
 
 // Interface funcional genérica com um parâmetro e um retorno
 interface NumericFunc2<T> {

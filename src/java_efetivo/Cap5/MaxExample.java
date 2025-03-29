@@ -1,4 +1,4 @@
-package Cap5;
+package java_efetivo.Cap5;
 
 import java.util.Collections;
 import java.util.Comparator;

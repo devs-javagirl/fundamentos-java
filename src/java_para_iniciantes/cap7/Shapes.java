@@ -1,4 +1,4 @@
-package cap7;
+package java_para_iniciantes.cap7;
 
 // Uma classe para objetos de duas dimensões.
 class TwoDShape {

@@ -1,4 +1,4 @@
-package cap14;
+package java_para_iniciantes.cap14;
 
 public class ClasseAnonima {
     public static void main(String[] args) {

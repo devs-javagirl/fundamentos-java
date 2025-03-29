@@ -1,4 +1,4 @@
-package cap8.queue.qpack;
+package java_para_iniciantes.cap8.queue.qpack;
 
 // Fila dinâmica.
 public class DynQueue implements ICharQ {

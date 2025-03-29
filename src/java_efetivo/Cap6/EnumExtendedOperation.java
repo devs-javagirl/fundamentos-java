@@ -1,4 +1,4 @@
-package Cap6;
+package java_efetivo.Cap6;
 
 public enum EnumExtendedOperation implements Operation {
     EXP("^") {

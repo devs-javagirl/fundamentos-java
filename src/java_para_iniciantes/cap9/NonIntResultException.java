@@ -1,4 +1,4 @@
-package cap9;
+package java_para_iniciantes.cap9;
 
 // Usa uma exceção personalizada.
 // Cria uma exceção.

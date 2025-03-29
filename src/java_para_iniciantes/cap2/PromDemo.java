@@ -1,4 +1,4 @@
-package cap2;
+package java_para_iniciantes.cap2;
 
     //b * b resulta em int, então é necessária coerção para atribuir a b.
 class PromDemo {

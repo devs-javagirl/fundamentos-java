@@ -1,4 +1,4 @@
-package cap1;
+package java_para_iniciantes.cap1;
 
 public class Exemplo2 {
 

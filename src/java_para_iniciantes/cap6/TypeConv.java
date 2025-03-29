@@ -1,4 +1,4 @@
-package cap6;
+package java_para_iniciantes.cap6;
 
 /* Conversões de tipo automáticas podem afetar
   a definição do método sobrecarregado.

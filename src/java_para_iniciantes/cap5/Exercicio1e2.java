@@ -1,4 +1,4 @@
-package cap5;
+package java_para_iniciantes.cap5;
 
 public class Exercicio1e2 {
     //1 Mostre duas maneiras de declarar um array unidimensional de 12 doubles.

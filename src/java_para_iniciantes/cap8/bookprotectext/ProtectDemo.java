@@ -1,4 +1,4 @@
-package cap8.bookprotectext;
+package java_para_iniciantes.cap8.bookprotectext;
 
 public class ProtectDemo {
     public static void main(String[] args) {

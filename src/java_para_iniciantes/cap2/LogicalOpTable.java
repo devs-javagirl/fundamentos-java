@@ -1,4 +1,4 @@
-package cap2;
+package java_para_iniciantes.cap2;
 
 // Tente isto 2-2: uma tabela-verdade para os operadores lógicos.
 class LogicalOpTable {

@@ -1,4 +1,4 @@
-package cap14;
+package java_para_iniciantes.cap14;
 
 // Usa uma referência de método de instância para referenciar
 // qualquer instância.

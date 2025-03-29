@@ -1,5 +1,5 @@
-package cap8.queue;
-import cap8.queue.qpack.*;
+package java_para_iniciantes.cap8.queue;
+import java_para_iniciantes.cap8.queue.qpack.*;
 
 public class QDemo {
     public static void main(String args[]) {
@@ -37,7 +37,7 @@ public class QDemo {
         System.out.println();
 
 
-        iQ = qCircular;
+        iQ = (ICharQ) qCircular;
         // Insere alguns caracteres na fila circular.
         for(i=0; i < 10; i++)
             iQ.put((char) ('A' + i));

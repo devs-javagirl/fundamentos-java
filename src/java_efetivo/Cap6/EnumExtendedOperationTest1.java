@@ -1,4 +1,4 @@
-package Cap6;
+package java_efetivo.Cap6;
 
 public class EnumExtendedOperationTest1 {
     public static void main(String[] args) {

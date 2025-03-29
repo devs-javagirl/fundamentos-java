@@ -1,4 +1,4 @@
-package Cap2;
+package java_efetivo.Cap2;
 
 import java.util.Arrays;
 import java.util.EmptyStackException;

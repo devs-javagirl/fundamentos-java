@@ -1,4 +1,4 @@
-package cap6;
+package java_para_iniciantes.cap6;
 
 public class VarArgs2 {
     // Aqui, msg é um parâmetro comum

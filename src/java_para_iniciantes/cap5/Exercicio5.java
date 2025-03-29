@@ -1,4 +1,4 @@
-package cap5;
+package java_para_iniciantes.cap5;
 
 public class Exercicio5 {
     //5 Qual é a diferença entre os métodos indexOf( ) e lastIndexOf( ) de String?

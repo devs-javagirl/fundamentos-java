@@ -1,4 +1,4 @@
-package cap3;
+package java_para_iniciantes.cap3;
 
 // Use vígulas em uma instrução for.
 class Comma {

@@ -1,8 +1,9 @@
-package Cap5.HeterogeneousContainer.Demo;
+package java_efetivo.Cap5.HeterogeneousContainer.Demo;
 
-import Cap5.HeterogeneousContainer.Model.CompanyProperties;
-import Cap5.HeterogeneousContainer.Model.PhoneNumber;
-import Cap5.HeterogeneousContainer.PropertyMap;
+import java_efetivo.Cap5.HeterogeneousContainer.Model.CompanyProperties;
+import java_efetivo.Cap5.HeterogeneousContainer.Model.PhoneNumber;
+import java_efetivo.Cap5.HeterogeneousContainer.PropertyMap;
+
 import java.util.ArrayList;
 import java.util.List;
 

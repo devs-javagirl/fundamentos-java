@@ -1,4 +1,4 @@
-package cap11;
+package java_para_iniciantes.cap11;
 
 // Faz a classe TickTock marcar realmente o tempo.
 class TickTock2 {

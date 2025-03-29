@@ -1,4 +1,4 @@
-package AnonimousClass;
+package java_efetivo.AnonimousClass;
 
 // Uso da classe anônima para estender a classe
 public class AnonymousClassExample2 {

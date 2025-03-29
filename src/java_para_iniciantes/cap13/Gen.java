@@ -1,4 +1,4 @@
-package cap13;
+package java_para_iniciantes.cap13;
 
 class Gen<T> {
     T ob; // Objeto do tipo T

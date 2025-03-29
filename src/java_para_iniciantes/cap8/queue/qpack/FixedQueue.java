@@ -1,4 +1,4 @@
-package cap8.queue.qpack;
+package java_para_iniciantes.cap8.queue.qpack;
 
 public class FixedQueue implements ICharQ {
     private char q[]; // esse array contém a fila

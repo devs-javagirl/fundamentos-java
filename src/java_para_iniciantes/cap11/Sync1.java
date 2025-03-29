@@ -1,4 +1,4 @@
-package cap11;
+package java_para_iniciantes.cap11;
 
 // Usa um bloco sincronizado para controlar o acesso a sumArray.
 class SumArray {

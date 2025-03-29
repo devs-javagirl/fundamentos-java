@@ -1,4 +1,4 @@
-package cap14;
+package java_para_iniciantes.cap14;
 
 @FunctionalInterface
 interface MyValueCompara {

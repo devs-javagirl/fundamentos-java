@@ -1,4 +1,4 @@
-package cap14;
+package java_para_iniciantes.cap14;
 
 // Interface funcional genérica com dois parâmetros que retorna um boolean
 interface SomeTest<T> {

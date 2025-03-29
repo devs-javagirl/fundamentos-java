@@ -1,4 +1,4 @@
-package cap14;
+package java_para_iniciantes.cap14;
 
 // Demonstra uma referência a um método estático.
 // Interface funcional para predicados numéricos que opera com

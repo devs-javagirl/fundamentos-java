@@ -1,4 +1,4 @@
-package cap2;
+package java_para_iniciantes.cap2;
 
 class NestVarDemo {
     public static void main(String args[]) {

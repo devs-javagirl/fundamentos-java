@@ -1,4 +1,4 @@
-package cap3;
+package java_para_iniciantes.cap3;
 
 // É importante onde o rótulo é inserido.
 class Break6 {

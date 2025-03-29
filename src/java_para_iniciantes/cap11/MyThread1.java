@@ -1,4 +1,4 @@
-package cap11;
+package java_para_iniciantes.cap11;
 
 public class MyThread1 implements Runnable{
     Thread thrd; //Uma referência ao objeto thread é armazenada em thrd

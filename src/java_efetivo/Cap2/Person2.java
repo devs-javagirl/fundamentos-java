@@ -1,4 +1,4 @@
-package Cap2;
+package java_efetivo.Cap2;
 
 public class Person2 {
     private String firstName;

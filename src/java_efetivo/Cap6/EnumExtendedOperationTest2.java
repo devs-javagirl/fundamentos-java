@@ -1,8 +1,8 @@
-package Cap6;
+package java_efetivo.Cap6;
 
-import Cap6.EnumBasicOperation;
-import Cap6.EnumExtendedOperation;
-import Cap6.Operation;
+import java_efetivo.Cap6.EnumBasicOperation;
+import java_efetivo.Cap6.EnumExtendedOperation;
+import java_efetivo.Cap6.Operation;
 
 import java.util.*;
 

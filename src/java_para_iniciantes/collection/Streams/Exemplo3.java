@@ -1,4 +1,4 @@
-package collection.Streams;
+package java_para_iniciantes.collection.Streams;
 
 /*
 * Encontrar o Maior Número

@@ -1,4 +1,4 @@
-package Cap4.classlimit;
+package java_efetivo.Cap4.classlimit;
 
 public class LimitWrong {
     public static void main(String[] args) {

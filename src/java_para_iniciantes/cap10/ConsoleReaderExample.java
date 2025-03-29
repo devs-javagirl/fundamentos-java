@@ -1,4 +1,4 @@
-package cap10;
+package java_para_iniciantes.cap10;
 
 
 import java.io.BufferedReader;

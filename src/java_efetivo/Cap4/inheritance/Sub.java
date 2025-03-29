@@ -1,4 +1,4 @@
-package Cap4.inheritance;
+package java_efetivo.Cap4.inheritance;
 
 import java.time.Instant;
 

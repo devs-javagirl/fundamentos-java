@@ -1,4 +1,6 @@
-import Cap2.*;
+package java_efetivo;
+
+import java_efetivo.Cap2.*;
 
 import java.util.ArrayList;
 import java.util.List;

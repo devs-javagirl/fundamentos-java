@@ -1,4 +1,4 @@
-package cap3;
+package java_para_iniciantes.cap3;
 
 /*Usa laços aninhados para encontrar os fatores dos números de 2 a 100.
   Fatores = Numeros que o dividem sem deixar resto

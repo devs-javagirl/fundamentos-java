@@ -1,10 +1,8 @@
-package cap8.bookprotectext;
+package java_para_iniciantes.cap8.bookprotectext;
 
-import cap8.bookprotect.*;
-
-public class ExtBook extends Book {
+public class ExtBook extends cap8.bookprotect.Book {
     private String publisher;
-    private Movie movie;
+    private cap8.bookprotect.Movie movie;
 
     public ExtBook(String t, String a, int d, String p) {
         super(t, a, d);

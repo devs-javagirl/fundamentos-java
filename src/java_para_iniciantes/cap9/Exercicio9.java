@@ -1,4 +1,4 @@
-package cap9;
+package java_para_iniciantes.cap9;
 
 class MyClass extends Exception { // Agora MyClass é uma exceção
     public MyClass(String message) {

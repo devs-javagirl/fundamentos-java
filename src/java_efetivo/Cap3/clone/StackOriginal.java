@@ -1,4 +1,4 @@
-package Cap3.clone;
+package java_efetivo.Cap3.clone;
 
 import java.util.Arrays;
 import java.util.EmptyStackException;

@@ -1,4 +1,4 @@
-package cap8.Series1;
+package java_para_iniciantes.cap8.Series1;
 
 public class ByThrees  implements Series {
     int start;

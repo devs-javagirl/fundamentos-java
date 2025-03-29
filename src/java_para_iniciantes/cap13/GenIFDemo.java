@@ -1,4 +1,4 @@
-package cap13;
+package java_para_iniciantes.cap13;
 
 // Uma interface genérica que lida com armazenamento.
 // Esta interface requer que a classe usuária

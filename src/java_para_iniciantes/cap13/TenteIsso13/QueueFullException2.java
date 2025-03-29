@@ -1,4 +1,4 @@
-package cap13.TenteIsso13;
+package java_para_iniciantes.cap13.TenteIsso13;
 
 // Exceção para erros de fila cheia.
 public class QueueFullException2 extends Exception {

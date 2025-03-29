@@ -1,4 +1,4 @@
-package cap3;
+package java_para_iniciantes.cap3;
 
 // Lê a entrada até um q ser recebido.
 class Break2 {

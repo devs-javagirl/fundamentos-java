@@ -1,4 +1,4 @@
-package cap3;
+package java_para_iniciantes.cap3;
 
 // Um laço for sendo executado em sentido negativo.
 class DecrFor {

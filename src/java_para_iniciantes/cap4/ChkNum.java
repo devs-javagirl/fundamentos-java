@@ -1,4 +1,4 @@
-package cap4;
+package java_para_iniciantes.cap4;
 
 public class ChkNum {
     // Um exemplo simples que usa um parâmetro.

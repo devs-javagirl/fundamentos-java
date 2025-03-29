@@ -1,4 +1,4 @@
-package collection.Streams;
+package java_para_iniciantes.collection.Streams;
 
 import java.util.List;
 import java.util.stream.Collectors;

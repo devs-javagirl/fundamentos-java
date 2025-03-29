@@ -1,4 +1,4 @@
-package cap14;
+package java_para_iniciantes.cap14;
 
 // Demonstra uma referência de constructor.
 // MyFuncConstructorRef é uma interface funcional cujo método retorna

@@ -1,4 +1,4 @@
-package cap14;
+package java_para_iniciantes.cap14;
 
 // Uma lambda de bloco que encontra o menor fator positivo
 // de um valor int.
