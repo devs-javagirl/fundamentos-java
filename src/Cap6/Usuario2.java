@@ -13,6 +13,17 @@ public class Usuario2 {
         this.moderador = false;
     }
 
+    public Usuario2(String nome, Integer pontos) {
+        this.nome = nome;
+        this.pontos = pontos;
+        this.moderador = false;
+    }
+
+    public Usuario2(String nome, boolean mod) {
+        this.nome = nome;
+        this.moderador = mod;
+    }
+
     public Usuario2() {
 
     }

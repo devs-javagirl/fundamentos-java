@@ -1,9 +1,12 @@
 package Cap7;
 
+import Cap5.Usuario;
 import Cap6.Usuario2;
 
 import java.util.ArrayList;
 import java.util.List;
+
+import static java.util.stream.Collectors.toList;
 
 public class FiltraModerador {
     public static void main(String[] args) {
@@ -18,7 +21,6 @@ public class FiltraModerador {
         usuarios.add(new Usuario2("Daniela", 321));
         usuarios.add(new Usuario2("Eduardo", 478));
         usuarios.add(new Usuario2("Fernanda", 15));
-
         usuarios.add(new Usuario2("Gabriel", 62));
         usuarios.add(new Usuario2("Helena", 500));
         usuarios.add(new Usuario2("Igor", 275));
@@ -40,6 +42,8 @@ public class FiltraModerador {
         System.out.println("----------------------------------------");
         System.out.println("Usuários original: ");
         usuarios.forEach(System.out::println);
+
+
 
     }
 }
