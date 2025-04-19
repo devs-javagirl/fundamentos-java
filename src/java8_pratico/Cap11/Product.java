@@ -14,6 +14,12 @@ class Product {
         this.price = price;
     }
 
+    public Product(String name, BigDecimal bigDecimal) {
+        this.name = name;
+        this.file = null; // Assuming file is not needed for this constructor
+        this.price = bigDecimal;
+    }
+
     public String getName() { return name; }
     public Path getFile() { return file; }
     public BigDecimal getPrice() { return price; }
