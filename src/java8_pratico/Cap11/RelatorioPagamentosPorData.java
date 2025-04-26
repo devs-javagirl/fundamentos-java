@@ -1,7 +1,6 @@
 package java8_pratico.Cap11;
 
 import java.math.BigDecimal;
-import java.time.LocalDate;
 import java.time.LocalDateTime;
 import java.time.YearMonth;
 import java.util.Arrays;
@@ -9,7 +8,7 @@ import java.util.List;
 import java.util.Map;
 import java.util.stream.Collectors;
 
-public class RelatorioPagamentos {
+public class RelatorioPagamentosPorData {
 
     public static void main(String[] args) {
         // Criando alguns produtos
